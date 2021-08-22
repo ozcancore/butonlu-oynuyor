@@ -24,4 +24,4 @@ client.login({ clientId : "818627795596869654" }).catch(console.error);
 client.on('ready', () => {
     console.log("Önden giriş yapıldı");
 
-  });               //ozcancore 
+  });               //ozcancore      Stingyboss#8164
